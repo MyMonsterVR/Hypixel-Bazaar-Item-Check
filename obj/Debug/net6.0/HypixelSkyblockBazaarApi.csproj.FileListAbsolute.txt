@@ -1,0 +1,17 @@
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\bin\Debug\net6.0\HypixelSkyblockBazaarApi.exe
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\bin\Debug\net6.0\HypixelSkyblockBazaarApi.deps.json
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\bin\Debug\net6.0\HypixelSkyblockBazaarApi.runtimeconfig.json
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\bin\Debug\net6.0\HypixelSkyblockBazaarApi.dll
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\bin\Debug\net6.0\HypixelSkyblockBazaarApi.pdb
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\obj\Debug\net6.0\HypixelSkyblockBazaarApi.csproj.AssemblyReference.cache
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\obj\Debug\net6.0\HypixelSkyblockBazaarApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\obj\Debug\net6.0\HypixelSkyblockBazaarApi.AssemblyInfoInputs.cache
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\obj\Debug\net6.0\HypixelSkyblockBazaarApi.AssemblyInfo.cs
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\obj\Debug\net6.0\HypixelSkyblockBazaarApi.csproj.CoreCompileInputs.cache
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\obj\Debug\net6.0\HypixelSkyblockBazaarApi.dll
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\obj\Debug\net6.0\refint\HypixelSkyblockBazaarApi.dll
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\obj\Debug\net6.0\HypixelSkyblockBazaarApi.pdb
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\obj\Debug\net6.0\HypixelSkyblockBazaarApi.genruntimeconfig.cache
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\obj\Debug\net6.0\ref\HypixelSkyblockBazaarApi.dll
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mymon\RiderProjects\HypixelSkyblockBazaarApi\HypixelSkyblockBazaarApi\obj\Debug\net6.0\HypixelSkyblockBazaarApi.csproj.CopyComplete

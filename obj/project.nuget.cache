@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zBFpaNiZIORPhZb5a75HIBdJ5Kt9OntSMm5Nph72JxkOuvf64lAdgn7XHH1rOz9YggN90b7Nai8Xh9Bpuh24Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mymon\\RiderProjects\\HypixelSkyblockBazaarApi\\HypixelSkyblockBazaarApi\\HypixelSkyblockBazaarApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mymon\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}
